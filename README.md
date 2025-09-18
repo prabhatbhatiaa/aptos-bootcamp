@@ -1,6 +1,13 @@
-# Decentralized Book Club Tracker
+<img width="1350" height="645" alt="image" src="https://github.com/user-attachments/assets/79fc2bb7-7f7a-41d6-bdf8-46b2071d5fdd" /># Decentralized Book Club Tracker
+
+<img width="1350" height="645" alt="image" src="https://github.com/user-attachments/assets/ae8b0f12-16a1-4ed0-a2dc-3922d21cbbf2" />
 
 A decentralized application (dApp) built on the Aptos blockchain that allows users to track and manage their book club participation.
+
+## Deployment
+Transaction Hash: `0xa5ea90dfb224132586c82073e6b33b638b3a373949e89a481737d674b8a9c606`
+
+[View on Aptos Explorer](https://explorer.aptoslabs.com/txn/0xa5ea90dfb224132586c82073e6b33b638b3a373949e89a481737d674b8a9c606)
 
 ## Overview
 
@@ -77,6 +84,10 @@ public fun update_progress(account: &signer, new_book: String, completed: bool)
 - Built on Aptos blockchain
 - Written in Move language
 - Uses Aptos framework for timestamp and signer verification
+
+## License
+
+[Add your chosen license here]
 
 ## Contributing
 
