@@ -1,0 +1,15 @@
+[package]
+name = "BlockProj"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x4d706d5a3388b2e986fce7794bd7273a84d5d1f8b899b8027e79efe77f737ac0"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
