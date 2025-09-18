@@ -1,4 +1,4 @@
-<img width="1350" height="645" alt="image" src="https://github.com/user-attachments/assets/79fc2bb7-7f7a-41d6-bdf8-46b2071d5fdd" /># Decentralized Book Club Tracker
+# Decentralized Book Club Tracker
 
 <img width="1350" height="645" alt="image" src="https://github.com/user-attachments/assets/ae8b0f12-16a1-4ed0-a2dc-3922d21cbbf2" />
 
