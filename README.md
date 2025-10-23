@@ -85,10 +85,6 @@ public fun update_progress(account: &signer, new_book: String, completed: bool)
 - Written in Move language
 - Uses Aptos framework for timestamp and signer verification
 
-## License
-
-[Add your chosen license here]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
